@@ -1,11 +1,14 @@
 html {
    width: 900px;
    height: 100%;
+   background-color: #303030;
 }
+
+
 
 h1 {
 
 font-family: "rubik pixels";font-size: xx-large;
-color: #0fff50
-;
+color: #1ff200;
+
 }
