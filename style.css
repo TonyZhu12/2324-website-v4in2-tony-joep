@@ -54,9 +54,42 @@ color: #1ff200;
    padding: 0px 360px;
 }
 
-.artikel1{
+main{
+   border: 1px green solid;
+}
+
+.artikel1, .artikel2{
    background-color: white;
    width: 400px;
-   height: 450px;
+   height: 500px;
    border: 1px blue solid;
+   float: left;
+   margin-left: 10px;
+   margin-bottom: 20px;
+}
+
+.afbeelding1, .afbeelding2{
+
+   background-color: white;
+   width: 450px;
+   height: 500px;
+   float: left;
+   border: 1px blue solid;
+   margin-left: 10px;
+   margin-bottom: 20px;
+}
+
+.artikelcontact, .divcontact{
+   width: 415px;
+   height: 600px;
+   background-color: white;
+   float: left;
+}
+
+.artikelcontact{
+   margin: 15px 5px 0px 15px;
+}
+
+.divcontact{
+   margin: 15px 15px 0px 5px;
 }
