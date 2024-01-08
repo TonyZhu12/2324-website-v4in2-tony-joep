@@ -53,3 +53,10 @@ color: #1ff200;
    font-size: 30px;
    padding: 0px 360px;
 }
+
+.artikel1{
+   background-color: white;
+   width: 400px;
+   height: 450px;
+   border: 1px blue solid;
+}
