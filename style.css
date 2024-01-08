@@ -12,12 +12,9 @@ font-family: "rubik pixels";font-size: xx-large;
 color: #1ff200;
 
 }
-body{
-   margin: 0px;
-}
-main{
-   margin-left: 20px;
-   margin-right: 20px;
+.header a{
+   text-align: center;
+   text-decoration: none;
 }
 h1{
    text-align: center;
