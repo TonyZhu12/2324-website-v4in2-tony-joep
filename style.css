@@ -1,5 +1,5 @@
 html {
-   width: 900px;
+   width: 100%;
    height: 100%;
    background-color: #303030;
 }
@@ -38,4 +38,5 @@ h1{
 }
 .navbar li{
    float: left;
+   
 }
