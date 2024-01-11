@@ -43,6 +43,10 @@ color: #1ff200;
    
 }
 
+.homepage img{
+   width: 900px;
+}
+
 .subtitel{
    color: #1ff200;
    font-size: 30px;
