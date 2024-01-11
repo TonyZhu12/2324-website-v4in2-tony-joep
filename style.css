@@ -6,9 +6,9 @@ html {
 }
 
 
-h1 {
+.pixel1, .download-button a{
 
-font-family: "rubik pixels";font-size: xx-large;
+font-family: "rubik pixels";
 color: #1ff200;
 
 }
@@ -121,6 +121,7 @@ main{
 .navhome a{
    color: #1FF200;
    text-decoration: none;
+   font-family: "pixelfy sans";
 }
 
 .navhome a:hover{
