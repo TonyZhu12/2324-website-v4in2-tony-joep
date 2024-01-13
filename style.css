@@ -7,7 +7,7 @@ html {
 
 
 .pixel1, .download-button a{
-
+text-decoration: none;
 font-family: "rubik pixels";
 color: #1ff200;
 
@@ -124,7 +124,7 @@ main{
 
 .navhome a{
    color: #1FF200;
-   text-decoration: none;
+   text-decoration: none #1ff200;
    font-family: "pixelfy sans";
 }
 
@@ -141,5 +141,14 @@ main{
 .gehacktartikel2{
    font-size: 80px;
    text-align: center;
+}
+
+
+#oldtetris {
+  width: 100%;
+   margin: auto;
+}
+#nestetris{
+   width: 400px ;
 }
 
