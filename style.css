@@ -217,4 +217,11 @@ color: #1ff200;
 #samenvatting {
   width: 100%;
   height: 100%;
+  margin: auto;
+}
+
+#samenvattingdiv {
+  margin:  auto;
+  width: 90%;
+  height: 1000px;
 }
