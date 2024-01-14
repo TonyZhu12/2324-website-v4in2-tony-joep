@@ -53,23 +53,27 @@ color: #1ff200;
    padding: 0px 360px;
 }
 
-main{
-   border: 1px green solid;
-}
+
 
 .artikel1, .artikel2{
-   background-color: white;
+   background-color: #303030;
    width: 450px;
    height: 500px;
-   border: 1px blue solid;
    float: left;
    margin-left: 10px;
    margin-bottom: 20px;
 }
 
-.afbeelding1, .afbeelding2{
+.artikel2 a{
+   color: #1FF200;
+}
 
-   background-color: white;
+.cybersecuritytekst1{
+   color: #1FF200;
+   font-size: 25px;
+}
+
+.afbeelding1, .afbeelding2{
    width: 400px;
    height: 500px;
    float: left;
@@ -77,12 +81,24 @@ main{
    margin-left: 10px;
    margin-bottom: 20px;
 }
+.artikelcontact{
+   width: 200px;
+   height: 600px;
+   float: left;
+   color: #1ff200;
+   font-size: 25px;
+}
 
-.artikelcontact, .divcontact{
+.artikelcontact a{
+   color: #1FF200;
+   font-size: 25px;
+}
+
+.divcontact{
+   float: left;
    width: 415px;
    height: 600px;
-   background-color: white;
-   float: left;
+   transform: rotate(90 deg);
 }
 
 .artikelcontact{
